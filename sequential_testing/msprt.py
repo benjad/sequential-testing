@@ -1,5 +1,5 @@
 import numpy as np
-from src.validations import validate_probability, validate_lenght
+from sequential_testing.validations import validate_probability, validate_lenght
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 from abc import ABC, abstractmethod

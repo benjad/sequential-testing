@@ -1,5 +1,5 @@
 import pytest
-from src.sprt import SPRTBinomial, SPRTNormal
+from sequential_testing.sprt import SPRTBinomial, SPRTNormal
 
 
 class TestSPRTBinomial:

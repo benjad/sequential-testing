@@ -1,6 +1,6 @@
 import numpy as np
 from scipy.stats import norm
-from src.validations import validate_probability, validate_lenght, validate_options
+from sequential_testing.validations import validate_probability, validate_lenght, validate_options
 import matplotlib.pyplot as plt
 from abc import ABC, abstractmethod
 

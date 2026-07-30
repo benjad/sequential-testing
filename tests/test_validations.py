@@ -1,5 +1,5 @@
 import pytest
-from src.validations import validate_probability, validate_lenght, validate_options
+from sequential_testing.validations import validate_probability, validate_lenght, validate_options
 
 from contextlib import nullcontext as does_not_raise
 import pytest

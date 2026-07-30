@@ -1,5 +1,5 @@
 import pytest
-from src.msprt import MSPRTBinomial, MSPRTNormal
+from sequential_testing.msprt import MSPRTBinomial, MSPRTNormal
 
 
 class TestMSPRTBinomial:
