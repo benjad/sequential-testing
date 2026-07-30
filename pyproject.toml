@@ -2,7 +2,7 @@
 name = "sequential-testing"
 version = "0.1.0"
 description = "collection of sequential testing methods"
-authors = ["Benja Duran <https://github.com/benjad>"]
+authors = ["Benja Duran <bndrn@tutamail.com>"]
 license = "MIT"
 readme = "README.md"
 package-mode = true
